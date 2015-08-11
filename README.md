@@ -1,67 +1,73 @@
-# Shiko no henka 思考の変化
-##### Change of thinking, a manifesto
-##### A Composable Philosophy
----
-A manifesto is defined as a declaration of one’s beliefs, opinions, motives, and intentions. It is simply a document that an organization or person writes that declares what is important to them.
+# Soft Thinking
+A manifesto on changing ones mind
+
+##### Definitions
+_Manifesto_: A declaration of one’s beliefs, opinions, motives, and intentions. It is simply a document that an organization or person writes that declares what is important to them.
+
+_Model_: The method one uses to think about and predict anything about the world.
+
+_Axiom_: A premise or starting point of reasoning. As classically conceived, an axiom is a premise so evident as to be accepted as true without controversy.
+
+_Lemma_: A proven proposition which is used as a stepping stone to a larger result rather than as a statement of interest by itself
+
+_Theorem_: A statement that has been proven on the basis of previously established statements, such as other theorems—and generally accepted statements, such as axioms
 
 ##### Goals
 1. Convince others to adopt the philosophy of changing ones mind regularly
-2. Embrace the discovering of ones  
+2. Embrace the discovering of inconsistencies and faults of ones internal mental model
+3. Learn to crave the struggle for new ideas and the moment just before understanding over the feeling of being "right".
+4. Encourage a method of debate that moves away from winning an argument to one of understand others point of view. Perhaps one will adopt it in the future.
+5. Detaching ideas from identity. Instead build ones identity around the idea that a changing of mind is unavoidable and even desirable.
+6. View all ideas as part of a web of information. Others will never be at all of the same points at the same time. Instead of looking down on others for holding different ideas, remember the journey along paths of the web and how far ones own mind had to travel.
+7. To be a composable philosophy, easily attached or included with other philosophies.
 
 ##### Non Goals
 1. Statement about objective truth
 2. Moral framework
+3. Promotion of any other particular creed, philosophy or religion.
 
+# Narative
 
-# Axiom
-Our universe is so vast in time, space, complexity, and scale that it is mostly unknowable. Ones mind will only experience an infinitesimal point in history, location, ideas, and perspective over a lifetime.
+Our universe is vast in time, space, complexity, and scale. So vast that it is mostly unknowable. Ones mind will only experience an infinitesimal point in history, location, ideas, and perspective over a lifetime.
 
+Many organisms and systems are composed of countless actors each operating independently and unexpectedly. Even with our most advanced models can we make generalizations about behavior of these systems at large scales. Often we must ignore the details to make any kind of prediction or decision.
 
-# Lemma
----
-Knowing this we can conclude that whatever is in ones mind will have errors and need adaptation / iteration
-
-
-# Theorem
----
-##### Each mind is a self contained ecosystem or framework
-1. Others must necessarily think differently than oneself based on the amount of information and variation in environment and experience
+Accepting this we can conclude that whatever is in any individual mind will have errors, biases and need adaptation or iteration. Additionally one cannot see what is in another mind and so each mind should be view as a kind of island. Others must necessarily think differently based on exposure to information and personal variation in environment and experience.
 
 What prevents people from changing their mind?
 
-Remove the shame / stigma / fear around
+##### Remove the shame / stigma / fear around
 1. Changing ones mind
 2. Errors / Mistakes
 3. Thinking differently than your local group
 
-Detaching ideas from identity (identity is just that one is not sure and ideas change)
+
 
 Expert Knowledge
 - The deeper an understanding of a topic the more one realizes how little was known before. This pattern is repeated endlessly and should be assumed as the default state of knowledge. Unless one has done original research or investigation assume nothing.
 
 
 # Method / Application
----
-Categories of knowledge
+##### Categories of knowledge
 1. Provable system Axiom -> Lemma -> Theorem
 2. Original research / investigation
 3. Expert understanding formal training
 4. Information from a peer reviewed reproducible system
 5. A Belief
 
-When thinking about or discussing an idea
+##### When thinking about or discussing an idea
 1. identify the category of knowledge one is working from. The categories are not intended to demean any other, only to make explicit
 2. divide the idea into many smallest part that can stand on their own and think about them individually
 
 # Call to Action
----
-
+##### The change of thinking website.
+1. Post the idea that changed your own mind about any topic
+2. Post the best argument for or against any topic
+3. Posting gives points to spend voting on other post to promote them to the top of search results
 
 # FAQ
----
 1. (Q) How is this different than science. (A) Science is a process of hypothesis and experimentation to build a model of objective reality. This philosophy simply argues that changing ones mind should be practiced and encouraged without fear.
 
 
 # Research
----
 1. Richard Feynman time tracking experiment
