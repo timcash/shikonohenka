@@ -20,6 +20,7 @@ _Theorem_: A statement that has been proven on the basis of previously establish
 5. Detaching ideas from identity. Instead build ones identity around the idea that a changing of mind is unavoidable and even desirable.
 6. View all ideas as part of a web of information. Others will never be at all of the same points at the same time. Instead of looking down on others for holding different ideas, remember the journey along paths of the web and how far ones own mind had to travel.
 7. To be a composable philosophy, easily attached or included with other philosophies.
+8. Remove the shame and fear of admitting to holding an idea that is later found to be incorrect.
 
 ##### Non Goals
 1. Statement about objective truth
@@ -34,7 +35,14 @@ Many organisms and systems are composed of countless actors each operating indep
 
 Accepting this we can conclude that whatever is in any individual mind will have errors, biases and need adaptation or iteration. Additionally one cannot see what is in another mind and so each mind should be view as a kind of island. Others must necessarily think differently based on exposure to information and personal variation in environment and experience.
 
-What prevents people from changing their mind?
+The deeper an understanding of a topic the more one realizes how little was known before. This pattern is repeated endlessly and should be assumed as the default state of knowledge. Unless one has done original research or investigation assume nothing.
+
+##### What prevents people from changing their mind?
+1. Social Bonds
+2. Identity
+3. Physiology
+4. Fear
+5. Shame
 
 ##### Remove the shame / stigma / fear around
 1. Changing ones mind
@@ -42,12 +50,7 @@ What prevents people from changing their mind?
 3. Thinking differently than your local group
 
 
-
-Expert Knowledge
-- The deeper an understanding of a topic the more one realizes how little was known before. This pattern is repeated endlessly and should be assumed as the default state of knowledge. Unless one has done original research or investigation assume nothing.
-
-
-# Method / Application
+# Method of Application
 ##### Categories of knowledge
 1. Provable system Axiom -> Lemma -> Theorem
 2. Original research / investigation
