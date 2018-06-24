@@ -31,7 +31,7 @@ _Theorem_: A statement that has been proven on the basis of previously establish
 
 Our universe is vast in time, space, complexity, and scale. So vast that it is mostly unknowable. Ones mind will only experience an infinitesimal point in history, location, ideas, and perspective over a lifetime.
 
-Many organisms and systems are composed of countless actors each operating independently and unexpectedly. Even with our most advanced models can we make generalizations about behavior of these systems at large scales. Often we must ignore the details to make any kind of prediction or decision.
+Many organisms and systems are composed of countless actors each operating independently and unexpectedly. Even with our most advanced models we can only make generalizations about the behavior of these systems at large scales. Often we must ignore the details to make any kind of prediction or decision.
 
 Accepting this we can conclude that whatever is in any individual mind will have errors, biases and need adaptation or iteration. Additionally one cannot see what is in another mind and so each mind should be view as a kind of island. Others must necessarily think differently based on exposure to information and personal variation in environment and experience.
 
