@@ -70,7 +70,3 @@ The deeper an understanding of a topic the more one realizes how little was know
 
 # FAQ
 1. (Q) How is this different than science. (A) Science is a process of hypothesis and experimentation to build a model of objective reality. This philosophy simply argues that changing ones mind should be practiced and encouraged without fear.
-
-
-# Research
-1. Richard Feynman time tracking experiment
