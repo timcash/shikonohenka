@@ -1,4 +1,4 @@
-Update: 4 years later, it works. See Shoshin. Always Unlearning and unknowing
+Update: 4 years later, it works. See Shoshin. Always unlearning and unknowing
 
 
 # Soft Thinking
