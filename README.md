@@ -1,3 +1,6 @@
+Update: 4 years later, it works. See Shoshin. Always Unlearning and unknowing
+
+
 # Soft Thinking
 A manifesto on changing ones mind
 
