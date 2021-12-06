@@ -1,4 +1,12 @@
-Update: 4 years later, it works. See Shoshin. Always unlearning and unknowing
+Shoshin. Always unlearning and unknowing
+https://en.wikipedia.org/wiki/Shoshin
+
+Cybernetics
+https://en.wikipedia.org/wiki/Cybernetics
+
+Systems Thinking
+Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff
+https://www.youtube.com/watch?v=Hp8_vJrtdeI&ab_channel=MelConway
 
 
 # Soft Thinking
