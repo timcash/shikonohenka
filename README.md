@@ -1,14 +1,3 @@
-Shoshin. Always unlearning and unknowing
-https://en.wikipedia.org/wiki/Shoshin
-
-Cybernetics
-https://en.wikipedia.org/wiki/Cybernetics
-
-Systems Thinking
-Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff
-https://www.youtube.com/watch?v=Hp8_vJrtdeI&ab_channel=MelConway
-
-
 # Soft Thinking
 A manifesto on changing ones mind
 
@@ -81,3 +70,17 @@ The deeper an understanding of a topic the more one realizes how little was know
 
 # FAQ
 1. (Q) How is this different than science. (A) Science is a process of hypothesis and experimentation to build a model of objective reality. This philosophy simply argues that changing ones mind should be practiced and encouraged without fear.
+
+# More reading
+Shoshin. Always unlearning and unknowing
+https://en.wikipedia.org/wiki/Shoshin
+
+Cybernetics
+https://en.wikipedia.org/wiki/Cybernetics
+
+Systems Thinking
+Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff
+https://www.youtube.com/watch?v=Hp8_vJrtdeI&ab_channel=MelConway
+
+OODA Loop
+https://en.wikipedia.org/wiki/OODA_loop
