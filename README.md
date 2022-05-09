@@ -1,9 +1,7 @@
 # Soft Thinking
-A manifesto on changing ones mind
+Writen to organize thoughts on states of mind. Specifically the state that our models of relatity are transitory and changed by observation. Soft Thinking is the state of continous curiosity without resistence.
 
 ##### Definitions
-_Manifesto_: A declaration of one’s beliefs, opinions, motives, and intentions. It is simply a document that an organization or person writes that declares what is important to them.
-
 _Model_: describes the details of state structures and transition functions
 
 _Axiom_: A premise or starting point of reasoning. As classically conceived, an axiom is a premise so evident as to be accepted as true without controversy.
