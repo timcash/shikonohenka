@@ -4,7 +4,7 @@ A manifesto on changing ones mind
 ##### Definitions
 _Manifesto_: A declaration of one’s beliefs, opinions, motives, and intentions. It is simply a document that an organization or person writes that declares what is important to them.
 
-_Model_: The method one uses to think about and predict anything about the world.
+_Model_: describes the details of state structures and transition functions
 
 _Axiom_: A premise or starting point of reasoning. As classically conceived, an axiom is a premise so evident as to be accepted as true without controversy.
 
