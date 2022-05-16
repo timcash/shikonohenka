@@ -1,5 +1,5 @@
 # Soft Thinking
-Writen to organize thoughts on states of mind. Specifically the state that our models of relatity are transitory and changed by observation. Soft Thinking is the state of continous curiosity without resistence.
+Written to organize thoughts on states of mind. Specifically the state that our models of reality are transitory and changed by observation. Soft Thinking is the state of continuous curiosity without resistance.
 
 ##### Definitions
 _Model_: describes the details of state structures and transition functions
@@ -25,7 +25,7 @@ _Theorem_: A statement that has been proven on the basis of previously establish
 2. Moral framework
 3. Promotion of any other particular creed, philosophy or religion.
 
-# Narative
+# Narrative
 
 Our universe is vast in time, space, complexity, and scale. So vast that it is mostly unknowable. Ones mind will only experience an infinitesimal point in history, location, ideas, and perspective over a lifetime.
 
@@ -77,8 +77,9 @@ Cybernetics
 https://en.wikipedia.org/wiki/Cybernetics
 
 Systems Thinking
-Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff
+Idealized Design, Systems Thinking, and a Model for Outlier Innovation, by Dr. Russell Ackoff
 https://www.youtube.com/watch?v=Hp8_vJrtdeI&ab_channel=MelConway
 
 OODA Loop
 https://en.wikipedia.org/wiki/OODA_loop
+
